@@ -1,0 +1,54 @@
+body{
+   background-image: url(img/blue\ backgroung.jpeg);
+    
+    background-attachment: fixed;
+    display: flex;
+    margin-top: 200px;
+    margin-left: 250px;
+    background-size: 100%;
+
+
+}
+.one{
+    
+     width:340px ;
+    height: 350px;
+    background-color: azure;
+    text-align: center;
+    border:solid ;
+    border-radius: 10px;
+ 
+ padding-left: 5px;
+ padding-right: 5px;
+ line-height: 25px;
+}
+input{
+    border: solid;
+    border-radius: 5px;
+    width: 300px;
+    height: 45px;
+}
+button{
+    background-color: sandybrown;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+
+}
+
+
+h1{
+    color: blue;
+    font-size: 50px;
+}
+p{
+    color:black;
+     font-size: 25px;
+}
+.two{
+    text-align: center;
+    
+    width: 450px;
+    height: 230px;
+
+}
